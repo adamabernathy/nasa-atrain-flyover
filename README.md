@@ -20,17 +20,17 @@
 
 
 ### TODO
-[ ]  Get coords plotted to markers rather than a polyline.
+- [ ]  Get coords plotted to markers rather than a polyline.
 
-[ ]  Compile an optimized version of Bootstrap.
+- [ ]  Compile an optimized version of Bootstrap.
 
-[ ] Fix footer formatting in CSS.
+- [ ] Fix footer formatting in CSS.
 
 ---
 
-[x] Update table with new set of coords and corresponding markers.
+- [x] Update table with new set of coords and corresponding markers.
 
-[x] Clean up file organization.
+- [x] Clean up file organization.
 
 
 ### Nice to haves
